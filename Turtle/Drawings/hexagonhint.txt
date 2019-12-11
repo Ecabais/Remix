@@ -1,0 +1,12 @@
+import turtle
+
+turtle.speed(2)
+turtle.color("light blue")
+turtle.width(3)
+
+turtle.left(60)
+turtle.forward(75)
+turtle.left(60)
+turtle.forward(75)
+turtle.left(60)
+turtle.forward(75)

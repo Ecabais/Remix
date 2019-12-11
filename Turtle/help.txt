@@ -1,0 +1,12 @@
+How to Play Rules:
+
+The Turtle code on the left display a certain shape! Try to guess what shape it will display!
+
+If you guess wrong you loose 100 points.
+If you guess right you gain 100 points.
+Try to reach 500 points to win!
+
+If you need help visualizing the drawing feel free to use the Sketch feature in the bottom right
+of the window!
+
+Click on the choice you think is correct below!
